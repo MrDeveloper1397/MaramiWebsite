@@ -1815,7 +1815,8 @@ ul,li{
 .accordion-box .accordion .accord-content{
 	position:relative;
 	display:none;
-	padding:10px 15px 0px 0px;
+	/* padding:10px 15px 0px 0px; */
+	margin-left: -40px;
 }
 
 .accordion-box.style-two .accordion .accord-content{
