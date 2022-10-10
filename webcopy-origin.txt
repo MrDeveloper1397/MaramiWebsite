@@ -1,0 +1,1300 @@
+Uri: http://marami.biz/
+File Name: C:\Downloaded Web Sites\marami.biz\index.htm
+Content Type: text/html
+
+Uri: http://marami.biz/images/background/marami.jpg
+File Name: C:\Downloaded Web Sites\marami.biz\images\background\marami.jpg
+Content Type: image/jpeg
+
+Uri: http://marami.biz/images/background/image-2.jpg
+File Name: C:\Downloaded Web Sites\marami.biz\images\background\image-2.jpg
+Content Type: image/jpeg
+
+Uri: http://marami.biz/css/bootstrap.css
+File Name: C:\Downloaded Web Sites\marami.biz\css\bootstrap.css
+Content Type: text/css
+
+Uri: http://marami.biz/css/revolution-slider.css
+File Name: C:\Downloaded Web Sites\marami.biz\css\revolution-slider.css
+Content Type: text/css
+
+Uri: http://marami.biz/css/style.css
+File Name: C:\Downloaded Web Sites\marami.biz\css\style.css
+Content Type: text/css
+
+Uri: http://marami.biz/css/responsive.css
+File Name: C:\Downloaded Web Sites\marami.biz\css\responsive.css
+Content Type: text/css
+
+Uri: http://marami.biz/images/favicon.png
+File Name: C:\Downloaded Web Sites\marami.biz\images\favicon.png
+Content Type: image/png
+
+Uri: http://marami.biz/index.html
+File Name: C:\Downloaded Web Sites\marami.biz\index.html
+Content Type: text/html
+
+Uri: http://marami.biz/about-us.html
+File Name: C:\Downloaded Web Sites\marami.biz\about-us.html
+Content Type: text/html
+
+Uri: http://marami.biz/products.html
+File Name: C:\Downloaded Web Sites\marami.biz\products.html
+Content Type: text/html
+
+Uri: http://marami.biz/technical-development-tools.html
+File Name: C:\Downloaded Web Sites\marami.biz\technical-development-tools.html
+Content Type: text/html
+
+Uri: http://marami.biz/clients.html
+File Name: C:\Downloaded Web Sites\marami.biz\clients.html
+Content Type: text/html
+
+Uri: http://marami.biz/contact-us.html
+File Name: C:\Downloaded Web Sites\marami.biz\contact-us.html
+Content Type: text/html
+
+Uri: http://marami.biz/enquiry.html
+File Name: C:\Downloaded Web Sites\marami.biz\enquiry.html
+Content Type: text/html
+
+Uri: http://marami.biz/images/products/1.jpg
+File Name: C:\Downloaded Web Sites\marami.biz\images\products\1.jpg
+Content Type: image/jpeg
+
+Uri: http://marami.biz/images/products/2.jpg
+File Name: C:\Downloaded Web Sites\marami.biz\images\products\2.jpg
+Content Type: image/jpeg
+
+Uri: http://marami.biz/images/products/3.jpg
+File Name: C:\Downloaded Web Sites\marami.biz\images\products\3.jpg
+Content Type: image/jpeg
+
+Uri: http://marami.biz/images/products/4.jpg
+File Name: C:\Downloaded Web Sites\marami.biz\images\products\4.jpg
+Content Type: image/jpeg
+
+Uri: http://marami.biz/images/products/5.jpg
+File Name: C:\Downloaded Web Sites\marami.biz\images\products\5.jpg
+Content Type: image/jpeg
+
+Uri: http://marami.biz/images/logo.jpg
+File Name: C:\Downloaded Web Sites\marami.biz\images\logo.jpg
+Content Type: image/jpeg
+
+Uri: http://marami.biz/images/logo-small.png
+File Name: C:\Downloaded Web Sites\marami.biz\images\logo-small.png
+Content Type: image/png
+
+Uri: http://marami.biz/images/main-slider/1.jpg
+File Name: C:\Downloaded Web Sites\marami.biz\images\main-slider\1.jpg
+Content Type: image/jpeg
+
+Uri: http://marami.biz/images/main-slider/2.jpg
+File Name: C:\Downloaded Web Sites\marami.biz\images\main-slider\2.jpg
+Content Type: image/jpeg
+
+Uri: http://marami.biz/images/main-slider/3.jpg
+File Name: C:\Downloaded Web Sites\marami.biz\images\main-slider\3.jpg
+Content Type: image/jpeg
+
+Uri: http://marami.biz/images/clients/all-clients/97.png
+File Name: C:\Downloaded Web Sites\marami.biz\images\clients\all-clients\97.png
+Content Type: image/png
+
+Uri: http://marami.biz/images/clients/all-clients/135.jpg
+File Name: C:\Downloaded Web Sites\marami.biz\images\clients\all-clients\135.jpg
+Content Type: image/jpeg
+
+Uri: http://marami.biz/images/clients/all-clients/134.jpg
+File Name: C:\Downloaded Web Sites\marami.biz\images\clients\all-clients\134.jpg
+Content Type: image/jpeg
+
+Uri: http://marami.biz/images/clients/all-clients/133.jpg
+File Name: C:\Downloaded Web Sites\marami.biz\images\clients\all-clients\133.jpg
+Content Type: image/jpeg
+
+Uri: http://marami.biz/images/clients/all-clients/95.jpeg
+File Name: C:\Downloaded Web Sites\marami.biz\images\clients\all-clients\95.jpeg
+Content Type: image/jpeg
+
+Uri: http://marami.biz/images/clients/all-clients/94.jpg
+File Name: C:\Downloaded Web Sites\marami.biz\images\clients\all-clients\94.jpg
+Content Type: image/jpeg
+
+Uri: http://marami.biz/images/clients/all-clients/93.jpg
+File Name: C:\Downloaded Web Sites\marami.biz\images\clients\all-clients\93.jpg
+Content Type: image/jpeg
+
+Uri: http://marami.biz/images/clients/all-clients/92.jpg
+File Name: C:\Downloaded Web Sites\marami.biz\images\clients\all-clients\92.jpg
+Content Type: image/jpeg
+
+Uri: http://marami.biz/images/clients/all-clients/91.jpg
+File Name: C:\Downloaded Web Sites\marami.biz\images\clients\all-clients\91.jpg
+Content Type: image/jpeg
+
+Uri: http://marami.biz/images/clients/1.jpg
+File Name: C:\Downloaded Web Sites\marami.biz\images\clients\1.jpg
+Content Type: image/jpeg
+
+Uri: http://marami.biz/images/clients/2.jpg
+File Name: C:\Downloaded Web Sites\marami.biz\images\clients\2.jpg
+Content Type: image/jpeg
+
+Uri: http://marami.biz/images/clients/3.jpg
+File Name: C:\Downloaded Web Sites\marami.biz\images\clients\3.jpg
+Content Type: image/jpeg
+
+Uri: http://marami.biz/images/clients/4.jpg
+File Name: C:\Downloaded Web Sites\marami.biz\images\clients\4.jpg
+Content Type: image/jpeg
+
+Uri: http://marami.biz/images/clients/5.jpg
+File Name: C:\Downloaded Web Sites\marami.biz\images\clients\5.jpg
+Content Type: image/jpeg
+
+Uri: http://marami.biz/images/clients/6.jpg
+File Name: C:\Downloaded Web Sites\marami.biz\images\clients\6.jpg
+Content Type: image/jpeg
+
+Uri: http://marami.biz/images/clients/7.jpg
+File Name: C:\Downloaded Web Sites\marami.biz\images\clients\7.jpg
+Content Type: image/jpeg
+
+Uri: http://marami.biz/images/clients/8.jpg
+File Name: C:\Downloaded Web Sites\marami.biz\images\clients\8.jpg
+Content Type: image/jpeg
+
+Uri: http://marami.biz/images/clients/9.jpg
+File Name: C:\Downloaded Web Sites\marami.biz\images\clients\9.jpg
+Content Type: image/jpeg
+
+Uri: http://marami.biz/images/clients/10.jpg
+File Name: C:\Downloaded Web Sites\marami.biz\images\clients\10.jpg
+Content Type: image/jpeg
+
+Uri: http://marami.biz/images/clients/11.jpg
+File Name: C:\Downloaded Web Sites\marami.biz\images\clients\11.jpg
+Content Type: image/jpeg
+
+Uri: http://marami.biz/images/clients/12.jpg
+File Name: C:\Downloaded Web Sites\marami.biz\images\clients\12.jpg
+Content Type: image/jpeg
+
+Uri: http://marami.biz/images/clients/13.jpg
+File Name: C:\Downloaded Web Sites\marami.biz\images\clients\13.jpg
+Content Type: image/jpeg
+
+Uri: http://marami.biz/images/clients/14.jpg
+File Name: C:\Downloaded Web Sites\marami.biz\images\clients\14.jpg
+Content Type: image/jpeg
+
+Uri: http://marami.biz/images/clients/15.jpg
+File Name: C:\Downloaded Web Sites\marami.biz\images\clients\15.jpg
+Content Type: image/jpeg
+
+Uri: http://marami.biz/images/clients/16.jpg
+File Name: C:\Downloaded Web Sites\marami.biz\images\clients\16.jpg
+Content Type: image/jpeg
+
+Uri: http://marami.biz/images/clients/17.jpg
+File Name: C:\Downloaded Web Sites\marami.biz\images\clients\17.jpg
+Content Type: image/jpeg
+
+Uri: http://marami.biz/images/clients/18.jpg
+File Name: C:\Downloaded Web Sites\marami.biz\images\clients\18.jpg
+Content Type: image/jpeg
+
+Uri: http://marami.biz/images/clients/19.jpg
+File Name: C:\Downloaded Web Sites\marami.biz\images\clients\19.jpg
+Content Type: image/jpeg
+
+Uri: http://marami.biz/images/clients/20.jpg
+File Name: C:\Downloaded Web Sites\marami.biz\images\clients\20.jpg
+Content Type: image/jpeg
+
+Uri: http://marami.biz/images/clients/21.jpg
+File Name: C:\Downloaded Web Sites\marami.biz\images\clients\21.jpg
+Content Type: image/jpeg
+
+Uri: http://marami.biz/images/clients/22.jpg
+File Name: C:\Downloaded Web Sites\marami.biz\images\clients\22.jpg
+Content Type: image/jpeg
+
+Uri: http://marami.biz/images/clients/23.jpg
+File Name: C:\Downloaded Web Sites\marami.biz\images\clients\23.jpg
+Content Type: image/jpeg
+
+Uri: http://marami.biz/images/clients/24.jpg
+File Name: C:\Downloaded Web Sites\marami.biz\images\clients\24.jpg
+Content Type: image/jpeg
+
+Uri: http://marami.biz/images/clients/25.jpg
+File Name: C:\Downloaded Web Sites\marami.biz\images\clients\25.jpg
+Content Type: image/jpeg
+
+Uri: http://marami.biz/images/clients/26.jpg
+File Name: C:\Downloaded Web Sites\marami.biz\images\clients\26.jpg
+Content Type: image/jpeg
+
+Uri: http://marami.biz/images/clients/27.jpg
+File Name: C:\Downloaded Web Sites\marami.biz\images\clients\27.jpg
+Content Type: image/jpeg
+
+Uri: http://marami.biz/images/clients/28.jpg
+File Name: C:\Downloaded Web Sites\marami.biz\images\clients\28.jpg
+Content Type: image/jpeg
+
+Uri: http://marami.biz/images/clients/29.jpg
+File Name: C:\Downloaded Web Sites\marami.biz\images\clients\29.jpg
+Content Type: image/jpeg
+
+Uri: http://marami.biz/images/clients/30.jpg
+File Name: C:\Downloaded Web Sites\marami.biz\images\clients\30.jpg
+Content Type: image/jpeg
+
+Uri: http://marami.biz/images/clients/31.jpg
+File Name: C:\Downloaded Web Sites\marami.biz\images\clients\31.jpg
+Content Type: image/jpeg
+
+Uri: http://marami.biz/images/clients/32.jpg
+File Name: C:\Downloaded Web Sites\marami.biz\images\clients\32.jpg
+Content Type: image/jpeg
+
+Uri: http://marami.biz/images/clients/33.jpg
+File Name: C:\Downloaded Web Sites\marami.biz\images\clients\33.jpg
+Content Type: image/jpeg
+
+Uri: http://marami.biz/images/clients/34.jpg
+File Name: C:\Downloaded Web Sites\marami.biz\images\clients\34.jpg
+Content Type: image/jpeg
+
+Uri: http://marami.biz/images/clients/35.jpg
+File Name: C:\Downloaded Web Sites\marami.biz\images\clients\35.jpg
+Content Type: image/jpeg
+
+Uri: http://marami.biz/images/clients/36.jpg
+File Name: C:\Downloaded Web Sites\marami.biz\images\clients\36.jpg
+Content Type: image/jpeg
+
+Uri: http://marami.biz/images/clients/37.jpg
+File Name: C:\Downloaded Web Sites\marami.biz\images\clients\37.jpg
+Content Type: image/jpeg
+
+Uri: http://marami.biz/images/clients/38.png
+File Name: C:\Downloaded Web Sites\marami.biz\images\clients\38.png
+Content Type: image/png
+
+Uri: http://marami.biz/images/clients/39.jpg
+File Name: C:\Downloaded Web Sites\marami.biz\images\clients\39.jpg
+Content Type: image/jpeg
+
+Uri: http://marami.biz/js/jquery.js
+File Name: C:\Downloaded Web Sites\marami.biz\js\jquery.js
+Content Type: application/javascript
+
+Uri: http://marami.biz/js/bootstrap.min.js
+File Name: C:\Downloaded Web Sites\marami.biz\js\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: http://marami.biz/js/revolution.min.js
+File Name: C:\Downloaded Web Sites\marami.biz\js\revolution.min.js
+Content Type: application/javascript
+
+Uri: http://marami.biz/js/jquery.fancybox.pack.js
+File Name: C:\Downloaded Web Sites\marami.biz\js\jquery.fancybox.pack.js
+Content Type: application/javascript
+
+Uri: http://marami.biz/js/isotope.js
+File Name: C:\Downloaded Web Sites\marami.biz\js\isotope.js
+Content Type: application/javascript
+
+Uri: http://marami.biz/js/owl.js
+File Name: C:\Downloaded Web Sites\marami.biz\js\owl.js
+Content Type: application/javascript
+
+Uri: http://marami.biz/js/wow.js
+File Name: C:\Downloaded Web Sites\marami.biz\js\wow.js
+Content Type: application/javascript
+
+Uri: http://marami.biz/js/script.js
+File Name: C:\Downloaded Web Sites\marami.biz\js\script.js
+Content Type: application/javascript
+
+Uri: http://marami.biz/fonts/glyphicons-halflings-regular.eot
+File Name: C:\Downloaded Web Sites\marami.biz\fonts\glyphicons-halflings-regular.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://marami.biz/fonts/glyphicons-halflings-regulard41d.eot?
+File Name: C:\Downloaded Web Sites\marami.biz\fonts\glyphicons-halflings-regulard41d.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://marami.biz/fonts/glyphicons-halflings-regular.html
+File Name: C:\Downloaded Web Sites\marami.biz\fonts\glyphicons-halflings-regular.html
+Content Type: text/html
+
+Uri: http://marami.biz/fonts/glyphicons-halflings-regular.woff
+File Name: C:\Downloaded Web Sites\marami.biz\fonts\glyphicons-halflings-regular.woff
+Content Type: font/woff
+
+Uri: http://marami.biz/fonts/glyphicons-halflings-regular.ttf
+File Name: C:\Downloaded Web Sites\marami.biz\fonts\glyphicons-halflings-regular.ttf
+Content Type: font/ttf
+
+Uri: http://marami.biz/fonts/glyphicons-halflings-regular.svg
+File Name: C:\Downloaded Web Sites\marami.biz\fonts\glyphicons-halflings-regular.svg
+Content Type: image/svg+xml
+
+Uri: http://marami.biz/images/gradient/g30.html
+File Name: C:\Downloaded Web Sites\marami.biz\images\gradient\g30.html
+Content Type: text/html
+
+Uri: http://marami.biz/images/gradient/g40.html
+File Name: C:\Downloaded Web Sites\marami.biz\images\gradient\g40.html
+Content Type: text/html
+
+Uri: http://marami.biz/css/assets/shadow1.png
+File Name: C:\Downloaded Web Sites\marami.biz\css\assets\shadow1.png
+Content Type: image/png
+
+Uri: http://marami.biz/css/assets/shadow2.png
+File Name: C:\Downloaded Web Sites\marami.biz\css\assets\shadow2.png
+Content Type: image/png
+
+Uri: http://marami.biz/css/assets/shadow3.png
+File Name: C:\Downloaded Web Sites\marami.biz\css\assets\shadow3.png
+Content Type: image/png
+
+Uri: http://marami.biz/css/assets/gridtile.png
+File Name: C:\Downloaded Web Sites\marami.biz\css\assets\gridtile.png
+Content Type: image/png
+
+Uri: http://marami.biz/css/assets/gridtile_white.png
+File Name: C:\Downloaded Web Sites\marami.biz\css\assets\gridtile_white.png
+Content Type: image/png
+
+Uri: http://marami.biz/css/assets/gridtile_3x3.png
+File Name: C:\Downloaded Web Sites\marami.biz\css\assets\gridtile_3x3.png
+Content Type: image/png
+
+Uri: http://marami.biz/css/assets/gridtile_3x3_white.png
+File Name: C:\Downloaded Web Sites\marami.biz\css\assets\gridtile_3x3_white.png
+Content Type: image/png
+
+Uri: http://marami.biz/css/assets/boxed_bgtile.png
+File Name: C:\Downloaded Web Sites\marami.biz\css\assets\boxed_bgtile.png
+Content Type: image/png
+
+Uri: http://marami.biz/css/assets/navigdots_bgtile.png
+File Name: C:\Downloaded Web Sites\marami.biz\css\assets\navigdots_bgtile.png
+Content Type: image/png
+
+Uri: http://marami.biz/css/assets/bullet.png
+File Name: C:\Downloaded Web Sites\marami.biz\css\assets\bullet.png
+Content Type: image/png
+
+Uri: http://marami.biz/css/assets/bullets.png
+File Name: C:\Downloaded Web Sites\marami.biz\css\assets\bullets.png
+Content Type: image/png
+
+Uri: http://marami.biz/css/assets/bullets2.png
+File Name: C:\Downloaded Web Sites\marami.biz\css\assets\bullets2.png
+Content Type: image/png
+
+Uri: http://marami.biz/css/assets/bullet_boxed.png
+File Name: C:\Downloaded Web Sites\marami.biz\css\assets\bullet_boxed.png
+Content Type: image/png
+
+Uri: http://marami.biz/css/assets/navigdots.png
+File Name: C:\Downloaded Web Sites\marami.biz\css\assets\navigdots.png
+Content Type: image/png
+
+Uri: http://marami.biz/css/assets/large_left.png
+File Name: C:\Downloaded Web Sites\marami.biz\css\assets\large_left.png
+Content Type: image/png
+
+Uri: http://marami.biz/css/assets/large_right.png
+File Name: C:\Downloaded Web Sites\marami.biz\css\assets\large_right.png
+Content Type: image/png
+
+Uri: http://marami.biz/css/assets/small_left.png
+File Name: C:\Downloaded Web Sites\marami.biz\css\assets\small_left.png
+Content Type: image/png
+
+Uri: http://marami.biz/css/assets/small_right.png
+File Name: C:\Downloaded Web Sites\marami.biz\css\assets\small_right.png
+Content Type: image/png
+
+Uri: http://marami.biz/css/assets/arrow_left.png
+File Name: C:\Downloaded Web Sites\marami.biz\css\assets\arrow_left.png
+Content Type: image/png
+
+Uri: http://marami.biz/css/assets/arrow_right.png
+File Name: C:\Downloaded Web Sites\marami.biz\css\assets\arrow_right.png
+Content Type: image/png
+
+Uri: http://marami.biz/css/assets/small_left_boxed.png
+File Name: C:\Downloaded Web Sites\marami.biz\css\assets\small_left_boxed.png
+Content Type: image/png
+
+Uri: http://marami.biz/css/assets/small_right_boxed.png
+File Name: C:\Downloaded Web Sites\marami.biz\css\assets\small_right_boxed.png
+Content Type: image/png
+
+Uri: http://marami.biz/css/assets/arrowleft.png
+File Name: C:\Downloaded Web Sites\marami.biz\css\assets\arrowleft.png
+Content Type: image/png
+
+Uri: http://marami.biz/css/assets/arrowright.png
+File Name: C:\Downloaded Web Sites\marami.biz\css\assets\arrowright.png
+Content Type: image/png
+
+Uri: http://marami.biz/css/assets/arrow_left2.png
+File Name: C:\Downloaded Web Sites\marami.biz\css\assets\arrow_left2.png
+Content Type: image/png
+
+Uri: http://marami.biz/css/assets/arrow_right2.png
+File Name: C:\Downloaded Web Sites\marami.biz\css\assets\arrow_right2.png
+Content Type: image/png
+
+Uri: http://marami.biz/css/assets/timer.png
+File Name: C:\Downloaded Web Sites\marami.biz\css\assets\timer.png
+Content Type: image/png
+
+Uri: http://marami.biz/css/assets/coloredbg.png
+File Name: C:\Downloaded Web Sites\marami.biz\css\assets\coloredbg.png
+Content Type: image/png
+
+Uri: http://marami.biz/css/assets/loader.gif
+File Name: C:\Downloaded Web Sites\marami.biz\css\assets\loader.gif
+Content Type: image/gif
+
+Uri: http://marami.biz/fonts/revicons90c690c6.eot?5510888
+File Name: C:\Downloaded Web Sites\marami.biz\fonts\revicons90c690c6.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://marami.biz/fonts/revicons90c690c6.woff?5510888
+File Name: C:\Downloaded Web Sites\marami.biz\fonts\revicons90c690c6.woff
+Content Type: font/woff
+
+Uri: http://marami.biz/fonts/revicons90c690c6.ttf?5510888
+File Name: C:\Downloaded Web Sites\marami.biz\fonts\revicons90c690c6.ttf
+Content Type: font/ttf
+
+Uri: http://marami.biz/fonts/revicons90c690c6.svg?5510888
+File Name: C:\Downloaded Web Sites\marami.biz\fonts\revicons90c690c6.svg
+Content Type: image/svg+xml
+
+Uri: https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,400italic,600,600italic,700,700italic,900italic,900,300,300italic
+File Name: C:\Downloaded Web Sites\marami.biz\css.css
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Merriweather:400,300,300italic,400italic,700,700italic
+File Name: C:\Downloaded Web Sites\marami.biz\css-1.css
+Content Type: text/css
+
+Uri: http://marami.biz/css/font-awesome.css
+File Name: C:\Downloaded Web Sites\marami.biz\css\font-awesome.css
+Content Type: text/css
+
+Uri: http://marami.biz/css/flaticon.css
+File Name: C:\Downloaded Web Sites\marami.biz\css\flaticon.css
+Content Type: text/css
+
+Uri: http://marami.biz/css/animate.css
+File Name: C:\Downloaded Web Sites\marami.biz\css\animate.css
+Content Type: text/css
+
+Uri: http://marami.biz/css/owl.css
+File Name: C:\Downloaded Web Sites\marami.biz\css\owl.css
+Content Type: text/css
+
+Uri: http://marami.biz/css/jquery.fancybox.css
+File Name: C:\Downloaded Web Sites\marami.biz\css\jquery.fancybox.css
+Content Type: text/css
+
+Uri: http://marami.biz/css/hover.css
+File Name: C:\Downloaded Web Sites\marami.biz\css\hover.css
+Content Type: text/css
+
+Uri: http://marami.biz/images/icons/preloader.GIF
+File Name: C:\Downloaded Web Sites\marami.biz\images\icons\preloader.GIF
+Content Type: image/gif
+
+Uri: http://marami.biz/images/icons/submenu-icon.png
+File Name: C:\Downloaded Web Sites\marami.biz\images\icons\submenu-icon.png
+Content Type: image/png
+
+Uri: http://marami.biz/images/icons/bg-progressbar.jpg
+File Name: C:\Downloaded Web Sites\marami.biz\images\icons\bg-progressbar.jpg
+Content Type: image/jpeg
+
+Uri: http://marami.biz/images/icons/icon-select.png
+File Name: C:\Downloaded Web Sites\marami.biz\images\icons\icon-select.png
+Content Type: image/png
+
+Uri: http://marami.biz/images/background/bg-pattern.png
+File Name: C:\Downloaded Web Sites\marami.biz\images\background\bg-pattern.png
+Content Type: image/png
+
+Uri: http://marami.biz/images/background/bg-page-title.jpg
+File Name: C:\Downloaded Web Sites\marami.biz\images\background\bg-page-title.jpg
+Content Type: image/jpeg
+
+Uri: http://marami.biz/images/vision.jpg
+File Name: C:\Downloaded Web Sites\marami.biz\images\vision.jpg
+Content Type: image/jpeg
+
+Uri: http://marami.biz/images/mission.jpg
+File Name: C:\Downloaded Web Sites\marami.biz\images\mission.jpg
+Content Type: image/jpeg
+
+Uri: http://marami.biz/js/jquery.fancybox-media.js
+File Name: C:\Downloaded Web Sites\marami.biz\js\jquery.fancybox-media.js
+Content Type: application/javascript
+
+Uri: http://marami.biz/images/icons/real-estate.png
+File Name: C:\Downloaded Web Sites\marami.biz\images\icons\real-estate.png
+Content Type: image/png
+
+Uri: http://marami.biz/images/icons/finance.png
+File Name: C:\Downloaded Web Sites\marami.biz\images\icons\finance.png
+Content Type: image/png
+
+Uri: http://marami.biz/images/icons/layout.png
+File Name: C:\Downloaded Web Sites\marami.biz\images\icons\layout.png
+Content Type: image/png
+
+Uri: http://marami.biz/images/icons/crm.png
+File Name: C:\Downloaded Web Sites\marami.biz\images\icons\crm.png
+Content Type: image/png
+
+Uri: http://marami.biz/images/icons/tele-marketing.png
+File Name: C:\Downloaded Web Sites\marami.biz\images\icons\tele-marketing.png
+Content Type: image/png
+
+Uri: http://marami.biz/images/icons/estate.png
+File Name: C:\Downloaded Web Sites\marami.biz\images\icons\estate.png
+Content Type: image/png
+
+Uri: http://marami.biz/images/icons/hr.png
+File Name: C:\Downloaded Web Sites\marami.biz\images\icons\hr.png
+Content Type: image/png
+
+Uri: http://marami.biz/images/icons/check.png
+File Name: C:\Downloaded Web Sites\marami.biz\images\icons\check.png
+Content Type: image/png
+
+Uri: http://marami.biz/images/icons/property.png
+File Name: C:\Downloaded Web Sites\marami.biz\images\icons\property.png
+Content Type: image/png
+
+Uri: http://marami.biz/images/icons/construction.png
+File Name: C:\Downloaded Web Sites\marami.biz\images\icons\construction.png
+Content Type: image/png
+
+Uri: http://marami.biz/images/icons/material.png
+File Name: C:\Downloaded Web Sites\marami.biz\images\icons\material.png
+Content Type: image/png
+
+Uri: http://marami.biz/images/icons/asset.png
+File Name: C:\Downloaded Web Sites\marami.biz\images\icons\asset.png
+Content Type: image/png
+
+Uri: http://marami.biz/images/icons/admin.png
+File Name: C:\Downloaded Web Sites\marami.biz\images\icons\admin.png
+Content Type: image/png
+
+Uri: http://marami.biz/images/in-banner.png
+File Name: C:\Downloaded Web Sites\marami.biz\images\in-banner.png
+Content Type: image/png
+
+Uri: http://marami.biz/images/finance.png
+File Name: C:\Downloaded Web Sites\marami.biz\images\finance.png
+Content Type: image/png
+
+Uri: http://marami.biz/images/layout-banner.jpg
+File Name: C:\Downloaded Web Sites\marami.biz\images\layout-banner.jpg
+Content Type: image/jpeg
+
+Uri: http://marami.biz/images/crm.png
+File Name: C:\Downloaded Web Sites\marami.biz\images\crm.png
+Content Type: image/png
+
+Uri: http://marami.biz/images/telemarketing.png
+File Name: C:\Downloaded Web Sites\marami.biz\images\telemarketing.png
+Content Type: image/png
+
+Uri: http://marami.biz/images/hr.png
+File Name: C:\Downloaded Web Sites\marami.biz\images\hr.png
+Content Type: image/png
+
+Uri: http://marami.biz/images/cheque.png
+File Name: C:\Downloaded Web Sites\marami.biz\images\cheque.png
+Content Type: image/png
+
+Uri: http://marami.biz/images/material.png
+File Name: C:\Downloaded Web Sites\marami.biz\images\material.png
+Content Type: image/png
+
+Uri: http://marami.biz/js/mixitup.js
+File Name: C:\Downloaded Web Sites\marami.biz\js\mixitup.js
+Content Type: application/javascript
+
+Uri: http://marami.biz/images/clients/all-clients/146.jpeg
+File Name: C:\Downloaded Web Sites\marami.biz\images\clients\all-clients\146.jpeg
+Content Type: image/jpeg
+
+Uri: http://marami.biz/images/clients/all-clients/145.jpeg
+File Name: C:\Downloaded Web Sites\marami.biz\images\clients\all-clients\145.jpeg
+Content Type: image/jpeg
+
+Uri: http://marami.biz/images/clients/all-clients/144.png
+File Name: C:\Downloaded Web Sites\marami.biz\images\clients\all-clients\144.png
+Content Type: image/png
+
+Uri: http://marami.biz/images/clients/all-clients/143.jpg
+File Name: C:\Downloaded Web Sites\marami.biz\images\clients\all-clients\143.jpg
+Content Type: image/jpeg
+
+Uri: http://marami.biz/images/clients/all-clients/142.jpg
+File Name: C:\Downloaded Web Sites\marami.biz\images\clients\all-clients\142.jpg
+Content Type: image/jpeg
+
+Uri: http://marami.biz/images/clients/all-clients/141.jpeg
+File Name: C:\Downloaded Web Sites\marami.biz\images\clients\all-clients\141.jpeg
+Content Type: image/jpeg
+
+Uri: http://marami.biz/images/clients/all-clients/140.jpg
+File Name: C:\Downloaded Web Sites\marami.biz\images\clients\all-clients\140.jpg
+Content Type: image/jpeg
+
+Uri: http://marami.biz/images/clients/all-clients/131.jpg
+File Name: C:\Downloaded Web Sites\marami.biz\images\clients\all-clients\131.jpg
+Content Type: image/jpeg
+
+Uri: http://marami.biz/images/clients/all-clients/132.jpg
+File Name: C:\Downloaded Web Sites\marami.biz\images\clients\all-clients\132.jpg
+Content Type: image/jpeg
+
+Uri: http://marami.biz/images/clients/all-clients/133.png
+File Name: C:\Downloaded Web Sites\marami.biz\images\clients\all-clients\133.png
+Content Type: image/png
+
+Uri: http://marami.biz/images/clients/all-clients/134.png
+File Name: C:\Downloaded Web Sites\marami.biz\images\clients\all-clients\134.png
+Content Type: image/png
+
+Uri: http://marami.biz/images/clients/all-clients/135.png
+File Name: C:\Downloaded Web Sites\marami.biz\images\clients\all-clients\135.png
+Content Type: image/png
+
+Uri: http://marami.biz/images/clients/all-clients/136.jpg
+File Name: C:\Downloaded Web Sites\marami.biz\images\clients\all-clients\136.jpg
+Content Type: image/jpeg
+
+Uri: http://marami.biz/images/clients/all-clients/137.jpg
+File Name: C:\Downloaded Web Sites\marami.biz\images\clients\all-clients\137.jpg
+Content Type: image/jpeg
+
+Uri: http://marami.biz/images/clients/all-clients/138.png
+File Name: C:\Downloaded Web Sites\marami.biz\images\clients\all-clients\138.png
+Content Type: image/png
+
+Uri: http://marami.biz/images/clients/all-clients/139.jpg
+File Name: C:\Downloaded Web Sites\marami.biz\images\clients\all-clients\139.jpg
+Content Type: image/jpeg
+
+Uri: http://marami.biz/images/clients/all-clients/121.jpg
+File Name: C:\Downloaded Web Sites\marami.biz\images\clients\all-clients\121.jpg
+Content Type: image/jpeg
+
+Uri: http://marami.biz/images/clients/all-clients/122.png
+File Name: C:\Downloaded Web Sites\marami.biz\images\clients\all-clients\122.png
+Content Type: image/png
+
+Uri: http://marami.biz/images/clients/all-clients/123.jpg
+File Name: C:\Downloaded Web Sites\marami.biz\images\clients\all-clients\123.jpg
+Content Type: image/jpeg
+
+Uri: http://marami.biz/images/clients/all-clients/124.jpg
+File Name: C:\Downloaded Web Sites\marami.biz\images\clients\all-clients\124.jpg
+Content Type: image/jpeg
+
+Uri: http://marami.biz/images/clients/all-clients/125.png
+File Name: C:\Downloaded Web Sites\marami.biz\images\clients\all-clients\125.png
+Content Type: image/png
+
+Uri: http://marami.biz/images/clients/all-clients/126.jpg
+File Name: C:\Downloaded Web Sites\marami.biz\images\clients\all-clients\126.jpg
+Content Type: image/jpeg
+
+Uri: http://marami.biz/images/clients/all-clients/127.png
+File Name: C:\Downloaded Web Sites\marami.biz\images\clients\all-clients\127.png
+Content Type: image/png
+
+Uri: http://marami.biz/images/clients/all-clients/128.jpg
+File Name: C:\Downloaded Web Sites\marami.biz\images\clients\all-clients\128.jpg
+Content Type: image/jpeg
+
+Uri: http://marami.biz/images/clients/all-clients/129.jpg
+File Name: C:\Downloaded Web Sites\marami.biz\images\clients\all-clients\129.jpg
+Content Type: image/jpeg
+
+Uri: http://marami.biz/images/clients/all-clients/130.png
+File Name: C:\Downloaded Web Sites\marami.biz\images\clients\all-clients\130.png
+Content Type: image/png
+
+Uri: http://marami.biz/images/clients/all-clients/111.png
+File Name: C:\Downloaded Web Sites\marami.biz\images\clients\all-clients\111.png
+Content Type: image/png
+
+Uri: http://marami.biz/images/clients/all-clients/112.png
+File Name: C:\Downloaded Web Sites\marami.biz\images\clients\all-clients\112.png
+Content Type: image/png
+
+Uri: http://marami.biz/images/clients/all-clients/113.jpg
+File Name: C:\Downloaded Web Sites\marami.biz\images\clients\all-clients\113.jpg
+Content Type: image/jpeg
+
+Uri: http://marami.biz/images/clients/all-clients/114.png
+File Name: C:\Downloaded Web Sites\marami.biz\images\clients\all-clients\114.png
+Content Type: image/png
+
+Uri: http://marami.biz/images/clients/all-clients/115.jpg
+File Name: C:\Downloaded Web Sites\marami.biz\images\clients\all-clients\115.jpg
+Content Type: image/jpeg
+
+Uri: http://marami.biz/images/clients/all-clients/116.png
+File Name: C:\Downloaded Web Sites\marami.biz\images\clients\all-clients\116.png
+Content Type: image/png
+
+Uri: http://marami.biz/images/clients/all-clients/117.jpg
+File Name: C:\Downloaded Web Sites\marami.biz\images\clients\all-clients\117.jpg
+Content Type: image/jpeg
+
+Uri: http://marami.biz/images/clients/all-clients/118.jpg
+File Name: C:\Downloaded Web Sites\marami.biz\images\clients\all-clients\118.jpg
+Content Type: image/jpeg
+
+Uri: http://marami.biz/images/clients/all-clients/119.jpg
+File Name: C:\Downloaded Web Sites\marami.biz\images\clients\all-clients\119.jpg
+Content Type: image/jpeg
+
+Uri: http://marami.biz/images/clients/all-clients/120.png
+File Name: C:\Downloaded Web Sites\marami.biz\images\clients\all-clients\120.png
+Content Type: image/png
+
+Uri: http://marami.biz/images/clients/all-clients/98.jpg
+File Name: C:\Downloaded Web Sites\marami.biz\images\clients\all-clients\98.jpg
+Content Type: image/jpeg
+
+Uri: http://marami.biz/images/clients/all-clients/99.jpg
+File Name: C:\Downloaded Web Sites\marami.biz\images\clients\all-clients\99.jpg
+Content Type: image/jpeg
+
+Uri: http://marami.biz/images/clients/all-clients/100.png
+File Name: C:\Downloaded Web Sites\marami.biz\images\clients\all-clients\100.png
+Content Type: image/png
+
+Uri: http://marami.biz/images/clients/all-clients/101.png
+File Name: C:\Downloaded Web Sites\marami.biz\images\clients\all-clients\101.png
+Content Type: image/png
+
+Uri: http://marami.biz/images/clients/all-clients/102.png
+File Name: C:\Downloaded Web Sites\marami.biz\images\clients\all-clients\102.png
+Content Type: image/png
+
+Uri: http://marami.biz/images/clients/all-clients/103.png
+File Name: C:\Downloaded Web Sites\marami.biz\images\clients\all-clients\103.png
+Content Type: image/png
+
+Uri: http://marami.biz/images/clients/all-clients/104.png
+File Name: C:\Downloaded Web Sites\marami.biz\images\clients\all-clients\104.png
+Content Type: image/png
+
+Uri: http://marami.biz/images/clients/all-clients/105.jpg
+File Name: C:\Downloaded Web Sites\marami.biz\images\clients\all-clients\105.jpg
+Content Type: image/jpeg
+
+Uri: http://marami.biz/images/clients/all-clients/106.jpg
+File Name: C:\Downloaded Web Sites\marami.biz\images\clients\all-clients\106.jpg
+Content Type: image/jpeg
+
+Uri: http://marami.biz/images/clients/all-clients/107.png
+File Name: C:\Downloaded Web Sites\marami.biz\images\clients\all-clients\107.png
+Content Type: image/png
+
+Uri: http://marami.biz/images/clients/all-clients/108.jpg
+File Name: C:\Downloaded Web Sites\marami.biz\images\clients\all-clients\108.jpg
+Content Type: image/jpeg
+
+Uri: http://marami.biz/images/clients/all-clients/109.png
+File Name: C:\Downloaded Web Sites\marami.biz\images\clients\all-clients\109.png
+Content Type: image/png
+
+Uri: http://marami.biz/images/clients/all-clients/110.PNG
+File Name: C:\Downloaded Web Sites\marami.biz\images\clients\all-clients\110.PNG
+Content Type: image/png
+
+Uri: http://marami.biz/images/clients/all-clients/96.jpg
+File Name: C:\Downloaded Web Sites\marami.biz\images\clients\all-clients\96.jpg
+Content Type: image/jpeg
+
+Uri: http://marami.biz/images/clients/all-clients/90.jpg
+File Name: C:\Downloaded Web Sites\marami.biz\images\clients\all-clients\90.jpg
+Content Type: image/jpeg
+
+Uri: http://marami.biz/images/clients/all-clients/89.jpg
+File Name: C:\Downloaded Web Sites\marami.biz\images\clients\all-clients\89.jpg
+Content Type: image/jpeg
+
+Uri: http://marami.biz/images/clients/all-clients/88.jpg
+File Name: C:\Downloaded Web Sites\marami.biz\images\clients\all-clients\88.jpg
+Content Type: image/jpeg
+
+Uri: http://marami.biz/images/clients/all-clients/87.jpg
+File Name: C:\Downloaded Web Sites\marami.biz\images\clients\all-clients\87.jpg
+Content Type: image/jpeg
+
+Uri: http://marami.biz/images/clients/all-clients/86.jpg
+File Name: C:\Downloaded Web Sites\marami.biz\images\clients\all-clients\86.jpg
+Content Type: image/jpeg
+
+Uri: http://marami.biz/images/clients/all-clients/85.png
+File Name: C:\Downloaded Web Sites\marami.biz\images\clients\all-clients\85.png
+Content Type: image/png
+
+Uri: http://marami.biz/images/clients/all-clients/84.jpg
+File Name: C:\Downloaded Web Sites\marami.biz\images\clients\all-clients\84.jpg
+Content Type: image/jpeg
+
+Uri: http://marami.biz/images/clients/all-clients/83.jpg
+File Name: C:\Downloaded Web Sites\marami.biz\images\clients\all-clients\83.jpg
+Content Type: image/jpeg
+
+Uri: http://marami.biz/images/clients/all-clients/82.jpg
+File Name: C:\Downloaded Web Sites\marami.biz\images\clients\all-clients\82.jpg
+Content Type: image/jpeg
+
+Uri: http://marami.biz/images/clients/all-clients/81.jpg
+File Name: C:\Downloaded Web Sites\marami.biz\images\clients\all-clients\81.jpg
+Content Type: image/jpeg
+
+Uri: http://marami.biz/images/clients/all-clients/80.jpg
+File Name: C:\Downloaded Web Sites\marami.biz\images\clients\all-clients\80.jpg
+Content Type: image/jpeg
+
+Uri: http://marami.biz/images/clients/all-clients/79.jpg
+File Name: C:\Downloaded Web Sites\marami.biz\images\clients\all-clients\79.jpg
+Content Type: image/jpeg
+
+Uri: http://marami.biz/images/clients/all-clients/78.jpg
+File Name: C:\Downloaded Web Sites\marami.biz\images\clients\all-clients\78.jpg
+Content Type: image/jpeg
+
+Uri: http://marami.biz/images/clients/all-clients/77.jpg
+File Name: C:\Downloaded Web Sites\marami.biz\images\clients\all-clients\77.jpg
+Content Type: image/jpeg
+
+Uri: http://marami.biz/images/clients/all-clients/76.jpg
+File Name: C:\Downloaded Web Sites\marami.biz\images\clients\all-clients\76.jpg
+Content Type: image/jpeg
+
+Uri: http://marami.biz/images/clients/all-clients/75.jpg
+File Name: C:\Downloaded Web Sites\marami.biz\images\clients\all-clients\75.jpg
+Content Type: image/jpeg
+
+Uri: http://marami.biz/images/clients/all-clients/74.jpg
+File Name: C:\Downloaded Web Sites\marami.biz\images\clients\all-clients\74.jpg
+Content Type: image/jpeg
+
+Uri: http://marami.biz/images/clients/all-clients/73.jpg
+File Name: C:\Downloaded Web Sites\marami.biz\images\clients\all-clients\73.jpg
+Content Type: image/jpeg
+
+Uri: http://marami.biz/images/clients/all-clients/72.jpg
+File Name: C:\Downloaded Web Sites\marami.biz\images\clients\all-clients\72.jpg
+Content Type: image/jpeg
+
+Uri: http://marami.biz/images/clients/all-clients/71.jpg
+File Name: C:\Downloaded Web Sites\marami.biz\images\clients\all-clients\71.jpg
+Content Type: image/jpeg
+
+Uri: http://marami.biz/images/clients/all-clients/70.jpg
+File Name: C:\Downloaded Web Sites\marami.biz\images\clients\all-clients\70.jpg
+Content Type: image/jpeg
+
+Uri: http://marami.biz/images/clients/all-clients/69.jpg
+File Name: C:\Downloaded Web Sites\marami.biz\images\clients\all-clients\69.jpg
+Content Type: image/jpeg
+
+Uri: http://marami.biz/images/clients/all-clients/68.jpg
+File Name: C:\Downloaded Web Sites\marami.biz\images\clients\all-clients\68.jpg
+Content Type: image/jpeg
+
+Uri: http://marami.biz/images/clients/all-clients/67.jpg
+File Name: C:\Downloaded Web Sites\marami.biz\images\clients\all-clients\67.jpg
+Content Type: image/jpeg
+
+Uri: http://marami.biz/images/clients/all-clients/66.jpg
+File Name: C:\Downloaded Web Sites\marami.biz\images\clients\all-clients\66.jpg
+Content Type: image/jpeg
+
+Uri: http://marami.biz/images/clients/all-clients/65.jpg
+File Name: C:\Downloaded Web Sites\marami.biz\images\clients\all-clients\65.jpg
+Content Type: image/jpeg
+
+Uri: http://marami.biz/images/clients/all-clients/64.jpg
+File Name: C:\Downloaded Web Sites\marami.biz\images\clients\all-clients\64.jpg
+Content Type: image/jpeg
+
+Uri: http://marami.biz/images/clients/all-clients/63.jpg
+File Name: C:\Downloaded Web Sites\marami.biz\images\clients\all-clients\63.jpg
+Content Type: image/jpeg
+
+Uri: http://marami.biz/images/clients/all-clients/62.jpg
+File Name: C:\Downloaded Web Sites\marami.biz\images\clients\all-clients\62.jpg
+Content Type: image/jpeg
+
+Uri: http://marami.biz/images/clients/all-clients/61.jpg
+File Name: C:\Downloaded Web Sites\marami.biz\images\clients\all-clients\61.jpg
+Content Type: image/jpeg
+
+Uri: http://marami.biz/images/clients/all-clients/60.jpg
+File Name: C:\Downloaded Web Sites\marami.biz\images\clients\all-clients\60.jpg
+Content Type: image/jpeg
+
+Uri: http://marami.biz/images/clients/all-clients/59.jpg
+File Name: C:\Downloaded Web Sites\marami.biz\images\clients\all-clients\59.jpg
+Content Type: image/jpeg
+
+Uri: http://marami.biz/images/clients/all-clients/58.jpg
+File Name: C:\Downloaded Web Sites\marami.biz\images\clients\all-clients\58.jpg
+Content Type: image/jpeg
+
+Uri: http://marami.biz/images/clients/all-clients/57.jpg
+File Name: C:\Downloaded Web Sites\marami.biz\images\clients\all-clients\57.jpg
+Content Type: image/jpeg
+
+Uri: http://marami.biz/images/clients/all-clients/56.jpg
+File Name: C:\Downloaded Web Sites\marami.biz\images\clients\all-clients\56.jpg
+Content Type: image/jpeg
+
+Uri: http://marami.biz/images/clients/all-clients/55.jpg
+File Name: C:\Downloaded Web Sites\marami.biz\images\clients\all-clients\55.jpg
+Content Type: image/jpeg
+
+Uri: http://marami.biz/images/clients/all-clients/54.jpg
+File Name: C:\Downloaded Web Sites\marami.biz\images\clients\all-clients\54.jpg
+Content Type: image/jpeg
+
+Uri: http://marami.biz/images/clients/all-clients/53.jpg
+File Name: C:\Downloaded Web Sites\marami.biz\images\clients\all-clients\53.jpg
+Content Type: image/jpeg
+
+Uri: http://marami.biz/images/clients/all-clients/52.jpg
+File Name: C:\Downloaded Web Sites\marami.biz\images\clients\all-clients\52.jpg
+Content Type: image/jpeg
+
+Uri: http://marami.biz/images/clients/all-clients/51.jpg
+File Name: C:\Downloaded Web Sites\marami.biz\images\clients\all-clients\51.jpg
+Content Type: image/jpeg
+
+Uri: http://marami.biz/images/clients/all-clients/50.jpg
+File Name: C:\Downloaded Web Sites\marami.biz\images\clients\all-clients\50.jpg
+Content Type: image/jpeg
+
+Uri: http://marami.biz/images/clients/all-clients/49.jpg
+File Name: C:\Downloaded Web Sites\marami.biz\images\clients\all-clients\49.jpg
+Content Type: image/jpeg
+
+Uri: http://marami.biz/images/clients/all-clients/48.jpg
+File Name: C:\Downloaded Web Sites\marami.biz\images\clients\all-clients\48.jpg
+Content Type: image/jpeg
+
+Uri: http://marami.biz/images/clients/all-clients/47.jpg
+File Name: C:\Downloaded Web Sites\marami.biz\images\clients\all-clients\47.jpg
+Content Type: image/jpeg
+
+Uri: http://marami.biz/images/clients/all-clients/46.jpg
+File Name: C:\Downloaded Web Sites\marami.biz\images\clients\all-clients\46.jpg
+Content Type: image/jpeg
+
+Uri: http://marami.biz/images/clients/all-clients/45.jpg
+File Name: C:\Downloaded Web Sites\marami.biz\images\clients\all-clients\45.jpg
+Content Type: image/jpeg
+
+Uri: http://marami.biz/images/clients/all-clients/44.jpg
+File Name: C:\Downloaded Web Sites\marami.biz\images\clients\all-clients\44.jpg
+Content Type: image/jpeg
+
+Uri: http://marami.biz/images/clients/all-clients/43.jpg
+File Name: C:\Downloaded Web Sites\marami.biz\images\clients\all-clients\43.jpg
+Content Type: image/jpeg
+
+Uri: http://marami.biz/images/clients/all-clients/42.jpg
+File Name: C:\Downloaded Web Sites\marami.biz\images\clients\all-clients\42.jpg
+Content Type: image/jpeg
+
+Uri: http://marami.biz/images/clients/all-clients/41.jpg
+File Name: C:\Downloaded Web Sites\marami.biz\images\clients\all-clients\41.jpg
+Content Type: image/jpeg
+
+Uri: http://marami.biz/images/clients/all-clients/40.jpg
+File Name: C:\Downloaded Web Sites\marami.biz\images\clients\all-clients\40.jpg
+Content Type: image/jpeg
+
+Uri: http://marami.biz/images/clients/all-clients/39.jpg
+File Name: C:\Downloaded Web Sites\marami.biz\images\clients\all-clients\39.jpg
+Content Type: image/jpeg
+
+Uri: http://marami.biz/images/clients/all-clients/38.jpg
+File Name: C:\Downloaded Web Sites\marami.biz\images\clients\all-clients\38.jpg
+Content Type: image/jpeg
+
+Uri: http://marami.biz/images/clients/all-clients/37.jpg
+File Name: C:\Downloaded Web Sites\marami.biz\images\clients\all-clients\37.jpg
+Content Type: image/jpeg
+
+Uri: http://marami.biz/images/clients/all-clients/36.jpg
+File Name: C:\Downloaded Web Sites\marami.biz\images\clients\all-clients\36.jpg
+Content Type: image/jpeg
+
+Uri: http://marami.biz/images/clients/all-clients/35.jpg
+File Name: C:\Downloaded Web Sites\marami.biz\images\clients\all-clients\35.jpg
+Content Type: image/jpeg
+
+Uri: http://marami.biz/images/clients/all-clients/34.jpg
+File Name: C:\Downloaded Web Sites\marami.biz\images\clients\all-clients\34.jpg
+Content Type: image/jpeg
+
+Uri: http://marami.biz/images/clients/all-clients/33.jpg
+File Name: C:\Downloaded Web Sites\marami.biz\images\clients\all-clients\33.jpg
+Content Type: image/jpeg
+
+Uri: http://marami.biz/images/clients/all-clients/32.jpg
+File Name: C:\Downloaded Web Sites\marami.biz\images\clients\all-clients\32.jpg
+Content Type: image/jpeg
+
+Uri: http://marami.biz/images/clients/all-clients/31.jpg
+File Name: C:\Downloaded Web Sites\marami.biz\images\clients\all-clients\31.jpg
+Content Type: image/jpeg
+
+Uri: http://marami.biz/images/clients/all-clients/30.jpg
+File Name: C:\Downloaded Web Sites\marami.biz\images\clients\all-clients\30.jpg
+Content Type: image/jpeg
+
+Uri: http://marami.biz/images/clients/all-clients/29.jpg
+File Name: C:\Downloaded Web Sites\marami.biz\images\clients\all-clients\29.jpg
+Content Type: image/jpeg
+
+Uri: http://marami.biz/images/clients/all-clients/28.jpg
+File Name: C:\Downloaded Web Sites\marami.biz\images\clients\all-clients\28.jpg
+Content Type: image/jpeg
+
+Uri: http://marami.biz/images/clients/all-clients/27.jpg
+File Name: C:\Downloaded Web Sites\marami.biz\images\clients\all-clients\27.jpg
+Content Type: image/jpeg
+
+Uri: http://marami.biz/images/clients/all-clients/26.jpg
+File Name: C:\Downloaded Web Sites\marami.biz\images\clients\all-clients\26.jpg
+Content Type: image/jpeg
+
+Uri: http://marami.biz/images/clients/all-clients/25.jpg
+File Name: C:\Downloaded Web Sites\marami.biz\images\clients\all-clients\25.jpg
+Content Type: image/jpeg
+
+Uri: http://marami.biz/images/clients/all-clients/24.jpg
+File Name: C:\Downloaded Web Sites\marami.biz\images\clients\all-clients\24.jpg
+Content Type: image/jpeg
+
+Uri: http://marami.biz/images/clients/all-clients/23.jpg
+File Name: C:\Downloaded Web Sites\marami.biz\images\clients\all-clients\23.jpg
+Content Type: image/jpeg
+
+Uri: http://marami.biz/images/clients/all-clients/22.jpg
+File Name: C:\Downloaded Web Sites\marami.biz\images\clients\all-clients\22.jpg
+Content Type: image/jpeg
+
+Uri: http://marami.biz/images/clients/all-clients/21.jpg
+File Name: C:\Downloaded Web Sites\marami.biz\images\clients\all-clients\21.jpg
+Content Type: image/jpeg
+
+Uri: http://marami.biz/images/clients/all-clients/20.jpg
+File Name: C:\Downloaded Web Sites\marami.biz\images\clients\all-clients\20.jpg
+Content Type: image/jpeg
+
+Uri: http://marami.biz/images/clients/all-clients/19.jpg
+File Name: C:\Downloaded Web Sites\marami.biz\images\clients\all-clients\19.jpg
+Content Type: image/jpeg
+
+Uri: http://marami.biz/images/clients/all-clients/18.jpg
+File Name: C:\Downloaded Web Sites\marami.biz\images\clients\all-clients\18.jpg
+Content Type: image/jpeg
+
+Uri: http://marami.biz/images/clients/all-clients/17.jpg
+File Name: C:\Downloaded Web Sites\marami.biz\images\clients\all-clients\17.jpg
+Content Type: image/jpeg
+
+Uri: http://marami.biz/images/clients/all-clients/16.jpg
+File Name: C:\Downloaded Web Sites\marami.biz\images\clients\all-clients\16.jpg
+Content Type: image/jpeg
+
+Uri: http://marami.biz/images/clients/all-clients/15.jpg
+File Name: C:\Downloaded Web Sites\marami.biz\images\clients\all-clients\15.jpg
+Content Type: image/jpeg
+
+Uri: http://marami.biz/images/clients/all-clients/14.jpg
+File Name: C:\Downloaded Web Sites\marami.biz\images\clients\all-clients\14.jpg
+Content Type: image/jpeg
+
+Uri: http://marami.biz/images/clients/all-clients/13.jpg
+File Name: C:\Downloaded Web Sites\marami.biz\images\clients\all-clients\13.jpg
+Content Type: image/jpeg
+
+Uri: http://marami.biz/images/clients/all-clients/12.jpg
+File Name: C:\Downloaded Web Sites\marami.biz\images\clients\all-clients\12.jpg
+Content Type: image/jpeg
+
+Uri: http://marami.biz/images/clients/all-clients/11.jpg
+File Name: C:\Downloaded Web Sites\marami.biz\images\clients\all-clients\11.jpg
+Content Type: image/jpeg
+
+Uri: http://marami.biz/images/clients/all-clients/10.jpg
+File Name: C:\Downloaded Web Sites\marami.biz\images\clients\all-clients\10.jpg
+Content Type: image/jpeg
+
+Uri: http://marami.biz/images/clients/all-clients/9.jpg
+File Name: C:\Downloaded Web Sites\marami.biz\images\clients\all-clients\9.jpg
+Content Type: image/jpeg
+
+Uri: http://marami.biz/images/clients/all-clients/8.jpg
+File Name: C:\Downloaded Web Sites\marami.biz\images\clients\all-clients\8.jpg
+Content Type: image/jpeg
+
+Uri: http://marami.biz/images/clients/all-clients/7.jpg
+File Name: C:\Downloaded Web Sites\marami.biz\images\clients\all-clients\7.jpg
+Content Type: image/jpeg
+
+Uri: http://marami.biz/images/clients/all-clients/6.jpg
+File Name: C:\Downloaded Web Sites\marami.biz\images\clients\all-clients\6.jpg
+Content Type: image/jpeg
+
+Uri: http://marami.biz/images/clients/all-clients/5.jpg
+File Name: C:\Downloaded Web Sites\marami.biz\images\clients\all-clients\5.jpg
+Content Type: image/jpeg
+
+Uri: http://marami.biz/images/clients/all-clients/4.jpg
+File Name: C:\Downloaded Web Sites\marami.biz\images\clients\all-clients\4.jpg
+Content Type: image/jpeg
+
+Uri: http://marami.biz/images/clients/all-clients/3.jpg
+File Name: C:\Downloaded Web Sites\marami.biz\images\clients\all-clients\3.jpg
+Content Type: image/jpeg
+
+Uri: http://marami.biz/images/clients/all-clients/2.jpg
+File Name: C:\Downloaded Web Sites\marami.biz\images\clients\all-clients\2.jpg
+Content Type: image/jpeg
+
+Uri: http://marami.biz/images/clients/all-clients/1.jpg
+File Name: C:\Downloaded Web Sites\marami.biz\images\clients\all-clients\1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3806.38847343943!2d78.47417211488761!3d17.441111105844065!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bcb9a1baaaaaaab:0xf47a603a64b2ae2!2sMarami Infotech Ltd.!5e0!3m2!1sen!2sin!4v1614332632760!5m2!1sen!2sin
+File Name: C:\Downloaded Web Sites\marami.biz\maps\embed.html
+Content Type: text/html
+
+Uri: http://marami.biz/images/contact-image.png
+File Name: C:\Downloaded Web Sites\marami.biz\images\contact-image.png
+Content Type: image/png
+
+Uri: http://marami.biz/js/map-script.js
+File Name: C:\Downloaded Web Sites\marami.biz\js\map-script.js
+Content Type: application/javascript
+
+Uri: http://marami.biz/js/validate.js
+File Name: C:\Downloaded Web Sites\marami.biz\js\validate.js
+Content Type: application/javascript
+
+Uri: http://marami.biz/images/enquiry.jpg
+File Name: C:\Downloaded Web Sites\marami.biz\images\enquiry.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sliderrevolution.com/
+File Name: C:\Downloaded Web Sites\marami.biz\index-1.htm
+Content Type: text/html
+
+Uri: http://marami.biz/fonts/fontawesome-webfont914c.eot?v=4.6.1
+File Name: C:\Downloaded Web Sites\marami.biz\fonts\fontawesome-webfont914c.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://marami.biz/fonts/fontawesome-webfontd41d.eot?
+File Name: C:\Downloaded Web Sites\marami.biz\fonts\fontawesome-webfontd41d.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://marami.biz/fonts/fontawesome-webfont914c.woff2?v=4.6.1
+File Name: C:\Downloaded Web Sites\marami.biz\fonts\fontawesome-webfont914c.woff2
+Content Type: font/woff2
+
+Uri: http://marami.biz/fonts/fontawesome-webfont914c.woff?v=4.6.1
+File Name: C:\Downloaded Web Sites\marami.biz\fonts\fontawesome-webfont914c.woff
+Content Type: font/woff
+
+Uri: http://marami.biz/fonts/fontawesome-webfont914c.ttf?v=4.6.1
+File Name: C:\Downloaded Web Sites\marami.biz\fonts\fontawesome-webfont914c.ttf
+Content Type: font/ttf
+
+Uri: http://marami.biz/fonts/fontawesome-webfont914c.svg?v=4.6.1
+File Name: C:\Downloaded Web Sites\marami.biz\fonts\fontawesome-webfont914c.svg
+Content Type: image/svg+xml
+
+Uri: http://marami.biz/fonts/flaticon.eot
+File Name: C:\Downloaded Web Sites\marami.biz\fonts\flaticon.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://marami.biz/fonts/flaticon.eot?
+File Name: C:\Downloaded Web Sites\marami.biz\fonts\flaticon-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://marami.biz/fonts/flaticon.woff
+File Name: C:\Downloaded Web Sites\marami.biz\fonts\flaticon.woff
+Content Type: font/woff
+
+Uri: http://marami.biz/fonts/flaticon.ttf
+File Name: C:\Downloaded Web Sites\marami.biz\fonts\flaticon.ttf
+Content Type: font/ttf
+
+Uri: http://marami.biz/fonts/flaticon.svg
+File Name: C:\Downloaded Web Sites\marami.biz\fonts\flaticon.svg
+Content Type: image/svg+xml
+
+Uri: http://marami.biz/css/owl.video.play.png
+File Name: C:\Downloaded Web Sites\marami.biz\css\owl.video.play.png
+Content Type: image/png
+
+Uri: http://marami.biz/images/fancybox/fancybox_sprite.png
+File Name: C:\Downloaded Web Sites\marami.biz\images\fancybox\fancybox_sprite.png
+Content Type: image/png
+
+Uri: http://marami.biz/images/fancybox/fancybox_loading.gif
+File Name: C:\Downloaded Web Sites\marami.biz\images\fancybox\fancybox_loading.gif
+Content Type: image/gif
+
+Uri: http://marami.biz/images/fancybox/blank.gif
+File Name: C:\Downloaded Web Sites\marami.biz\images\fancybox\blank.gif
+Content Type: image/gif
+
+Uri: http://marami.biz/images/fancybox/fancybox_overlay.png
+File Name: C:\Downloaded Web Sites\marami.biz\images\fancybox\fancybox_overlay.png
+Content Type: image/png
+
+Uri: http://marami.biz/images/fancybox/fancybox_sprite_2x.png
+File Name: C:\Downloaded Web Sites\marami.biz\images\fancybox\fancybox_sprite_2x.png
+Content Type: image/png
+
+Uri: http://marami.biz/images/fancybox/fancybox_loading_2x.gif
+File Name: C:\Downloaded Web Sites\marami.biz\images\fancybox\fancybox_loading_2x.gif
+Content Type: image/gif
+

@@ -1,0 +1,79 @@
+	/*
+  	Flaticon icon font: Flaticon
+  	Creation date: 26/05/2016 08:42
+  	*/
+
+@font-face {
+  font-family: "Flaticon";
+  src: url("../fonts/flaticon.eot");
+  src: url("../fonts/flaticon-1.eot") format("embedded-opentype"),
+       url("../fonts/flaticon.woff") format("woff"),
+       url("../fonts/flaticon.ttf") format("truetype"),
+       url("../fonts/flaticon.svg") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "Flaticon";
+    src: url("./flaticon.svg#Flaticon") format("svg");
+  }
+}
+
+[class^="flaticon-"]:before, [class*=" flaticon-"]:before,
+[class^="flaticon-"]:after, [class*=" flaticon-"]:after {   
+  font-family: Flaticon;
+font-style: normal;
+}
+
+.flaticon-add:before { content: "\f100"; }
+.flaticon-arrow-pointing-up:before { content: "\f101"; }
+.flaticon-browsing:before { content: "\f102"; }
+.flaticon-building:before { content: "\f103"; }
+.flaticon-businessmen-hierarchical-graphic-of-males-human-resources:before { content: "\f104"; }
+.flaticon-check:before { content: "\f105"; }
+.flaticon-check-1:before { content: "\f106"; }
+.flaticon-chevron-upwards-arrow:before { content: "\f107"; }
+.flaticon-close-envelope:before { content: "\f108"; }
+.flaticon-coding:before { content: "\f109"; }
+.flaticon-computer-screen-with-windows-logo:before { content: "\f10a"; }
+.flaticon-customer-relationship-management:before { content: "\f10b"; }
+.flaticon-envelope:before { content: "\f10c"; }
+.flaticon-folder:before { content: "\f10d"; }
+.flaticon-graph:before { content: "\f10e"; }
+.flaticon-house:before { content: "\f10f"; }
+.flaticon-house-1:before { content: "\f110"; }
+.flaticon-house-2:before { content: "\f111"; }
+.flaticon-house-3:before { content: "\f112"; }
+.flaticon-house-4:before { content: "\f113"; }
+.flaticon-house-with-chimney:before { content: "\f114"; }
+.flaticon-house-with-dollar-sign:before { content: "\f115"; }
+.flaticon-html-language:before { content: "\f116"; }
+.flaticon-human-resources:before { content: "\f117"; }
+.flaticon-human-resources-symbol:before { content: "\f118"; }
+.flaticon-investment:before { content: "\f119"; }
+.flaticon-layout:before { content: "\f11a"; }
+.flaticon-minus:before { content: "\f11b"; }
+.flaticon-money-bills:before { content: "\f11c"; }
+.flaticon-newspaper:before { content: "\f11d"; }
+.flaticon-notebook-and-mouse-cursor:before { content: "\f11e"; }
+.flaticon-opened-email-envelope:before { content: "\f11f"; }
+.flaticon-pencin-and-eraser:before { content: "\f120"; }
+.flaticon-phone-call:before { content: "\f121"; }
+.flaticon-pie-chart:before { content: "\f122"; }
+.flaticon-pie-chart-1:before { content: "\f123"; }
+.flaticon-placeholder:before { content: "\f124"; }
+.flaticon-programming:before { content: "\f125"; }
+.flaticon-remove:before { content: "\f126"; }
+.flaticon-report:before { content: "\f127"; }
+.flaticon-reporting:before { content: "\f128"; }
+.flaticon-send-to-front-button:before { content: "\f129"; }
+.flaticon-server-1:before { content: "\f12a"; }
+.flaticon-smartphone:before { content: "\f12b"; }
+.flaticon-smartphone-call:before { content: "\f12c"; }
+.flaticon-task:before { content: "\f12d"; }
+.flaticon-team-support:before { content: "\f12e"; }
+.flaticon-web-graphic:before { content: "\f12f"; }
+.flaticon-windows:before { content: "\f130"; }
+.flaticon-world-wide-web:before { content: "\f131"; }
